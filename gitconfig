@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = turki_1@hotmail.co.uk
+	name = Turki Alsulayyi
